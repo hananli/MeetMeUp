@@ -1,0 +1,22 @@
+{
+    "status": "true",
+    "msg": "Success",
+    "friend_list": [
+        {
+            "user_id": "64",
+            "user_fname": "Aastha",
+            "friend_fb_id": "809634782423840",
+            "user_lname": "Gupta",
+            "image_url": "http://graph.facebook.com/809634782423840/picture?type=small",
+            "is_app_user": "1"
+        },
+        {
+            "user_id": "63",
+            "user_fname": "Satyendrapal",
+            "friend_fb_id": "767588299981978",
+            "user_lname": "Thakur",
+            "image_url": "http://graph.facebook.com/767588299981978/picture?type=small",
+            "is_app_user": "1"
+        }
+    ]
+}
